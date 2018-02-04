@@ -24,11 +24,13 @@ This set of APIs can analyze text to help you understand its concepts, usage, la
   <br/>
   <img src="https://github.com/Jyotsna-Singh-16/frontend-readme/blob/master/mainpage.png" / >
   <br/>
-  <ul>
+  <br/>
+  
+<ul>
   <li>Now enter any<b> text/url/html </b>in textbox</li>
   <li>Click on<b> Analyze </b> button</li>
   <li>You will have the<b> Response of your analyzed text </b>on your browser </li>
-  </ul>
+</ul>
  
 
   
