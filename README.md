@@ -37,6 +37,7 @@ This set of APIs can analyze text to help you understand its concepts, usage, la
   
   ### Front-end Developer
   <h4>~ Jyotsna Singh (@Jyotsna-Singh-16) </h4>
+  
   ### Back-end Developer
   <h4>~ Sankalp Singh Rathore (@sankalp139) </h4>
 
