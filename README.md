@@ -22,7 +22,7 @@ This set of APIs can analyze text to help you understand its concepts, usage, la
   <li>You will have the <b>Watson-Natural-Language-Understanding</b> running on your browser.</li>
   <ul/>
   <br/>
-  <img src="https://github.com/Jyotsna-Singh-16/frontend-readme/blob/master/mainpage.png" / >
+  <img src="https://github.com/Jyotsna-Singh-16/ReactJS-Watson-Natural-Language-Understanding-Readme/blob/master/mainpage.png" / >
   <br/>
   <br/>
   
