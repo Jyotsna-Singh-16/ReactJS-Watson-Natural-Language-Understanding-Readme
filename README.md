@@ -21,7 +21,14 @@ This set of APIs can analyze text to help you understand its concepts, usage, la
   <li>Head to <a href=http://localhost:3000/>http://localhost:3000</a> on your browser.</li>
   <li>You will have the <b>Watson-Natural-Language-Understanding</b> running on your browser.</li>
   <ol/>
+  <br/>
   <img src="https://github.com/Jyotsna-Singh-16/frontend-readme/blob/master/mainpage.png" / >
+  <br/>
+  <ol>
+  <li>Now enter any<b> text/url/html </b>in textbox</li>
+  <li>Click on<b> Analyze </b> button</li>
+  <li>You will have the<b> Response of your analyzed text </b>on your browser </li>
+  </ol>
  
 
   
