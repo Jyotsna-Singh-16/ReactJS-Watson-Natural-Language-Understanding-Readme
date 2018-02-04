@@ -33,6 +33,13 @@ This set of APIs can analyze text to help you understand its concepts, usage, la
 </ul>
 <br/>
  <img src="https://github.com/Jyotsna-Singh-16/ReactJS-Watson-Natural-Language-Understanding-Readme/blob/master/responsepage.png" / >
+ <br/>
+  
+  ### Front-end Developer
+  <h4>~ Jyotsna Singh (@Jyotsna-Singh-16) </h4>
+  ### Back-end Developer
+  <h4>~ Sankalp Singh Rathore (@sankalp139) </h4>
+
 
   
   
