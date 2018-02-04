@@ -12,7 +12,7 @@ This set of APIs can analyze text to help you understand its concepts, usage, la
   </ul>
   
  ### Installing
-  <ol>
+  <ul>
   <li>Clone the repository by running git clone hrjg </li>
   <li>Change your directory to <b> /microservices/ui </b> </li>
   <li>Run <b> npm install </b> from your terminal to install all dependencies.</li>
@@ -20,15 +20,15 @@ This set of APIs can analyze text to help you understand its concepts, usage, la
   <li>Run <b>npm start </b> from your terminal to start the server in development mode.
   <li>Head to <a href=http://localhost:3000/>http://localhost:3000</a> on your browser.</li>
   <li>You will have the <b>Watson-Natural-Language-Understanding</b> running on your browser.</li>
-  <ol/>
+  <ul/>
   <br/>
   <img src="https://github.com/Jyotsna-Singh-16/frontend-readme/blob/master/mainpage.png" / >
   <br/>
-  <ol>
+  <ul>
   <li>Now enter any<b> text/url/html </b>in textbox</li>
   <li>Click on<b> Analyze </b> button</li>
   <li>You will have the<b> Response of your analyzed text </b>on your browser </li>
-  </ol>
+  </ul>
  
 
   
