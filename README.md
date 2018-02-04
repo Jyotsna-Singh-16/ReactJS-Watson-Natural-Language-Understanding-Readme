@@ -20,8 +20,9 @@ This set of APIs can analyze text to help you understand its concepts, usage, la
   <li>Run <b>npm start </b> from your terminal to start the server in development mode.
   <li>Head to <a href=http://localhost:3000/>http://localhost:3000</a> on your browser.</li>
   <li>You will have the <b>Watson-Natural-Language-Understanding</b> running on your browser.</li>
+  
+  <img src="https://github.com/Jyotsna-Singh-16/frontend-readme/blob/master/mainpage.png" / >
   </ol>
-  <img src="" / >
 
   
   
